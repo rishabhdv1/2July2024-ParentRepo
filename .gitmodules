@@ -4,6 +4,6 @@
 [submodule "rohit"]
 	path = rohit
 	url = https://github.com/rishabhdv1/2July2024-Rohit_ChildRepo_GitSubModule.git
-[submodule "aashish/2July2024-Aashish_ChildRepo_GitSubModule"]
-	path = aashish/2July2024-Aashish_ChildRepo_GitSubModule
+[submodule "2July2024-Aashish_ChildRepo_GitSubModule"]
+	path = 2July2024-Aashish_ChildRepo_GitSubModule
 	url = https://github.com/rishabhdv1/2July2024-Aashish_ChildRepo_GitSubModule.git
