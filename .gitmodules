@@ -7,3 +7,6 @@
 [submodule "aashish/2July2024-Aashish_ChildRepo_GitSubModule"]
 	path = aashish/2July2024-Aashish_ChildRepo_GitSubModule
 	url = https://github.com/rishabhdv1/2July2024-Aashish_ChildRepo_GitSubModule.git
+[submodule "https-github.com-rishabhdv1-2July2024-Anant_ChildRepo_GitSubModule"]
+	path = https-github.com-rishabhdv1-2July2024-Anant_ChildRepo_GitSubModule
+	url = https://github.com/rishabhdv1/https-github.com-rishabhdv1-2July2024-Anant_ChildRepo_GitSubModule.git
